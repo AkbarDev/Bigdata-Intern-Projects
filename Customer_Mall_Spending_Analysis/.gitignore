@@ -1,0 +1,30 @@
+# Dependencies
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+*.log
+
+# Environment
+.env
+venv/
+env/
+
+# Data files (sensitive)
+data/*.csv
+data/*.xlsx
+data/*.xls
+!data/README.md
+
+# Spark
+metastore_db/
+derby.log
+spark-warehouse/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
