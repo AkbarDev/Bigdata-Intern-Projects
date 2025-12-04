@@ -1,6 +1,6 @@
 # Big Data Intern Projects
 
-This repository contains a collection of Big Data and Data Engineering projects completed during my internship.
+This repository contains a collection of Big Data projects
 
 ## Project List
 
