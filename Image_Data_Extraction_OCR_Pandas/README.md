@@ -108,7 +108,7 @@ graph LR
 ## Related Projects
 
 - **CSV → PostgreSQL ETL Pipeline** – data ingestion and storage best practices.  
-- **Customer Mall Spending Analysis** – pandas‑based analytics on structured CSV data.  
+- **Customer Mall Spending Analysis** – pandas‑centric analytics.  
 - **HuggingFace NLP Analysis** – advanced text processing and sentiment analysis.
 
 ---
