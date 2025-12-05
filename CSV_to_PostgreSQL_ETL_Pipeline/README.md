@@ -267,7 +267,7 @@ Total records in database: 1000
 **Author:** Akbar Basha  
 **Role:** Data Engineering Intern  
 **GitHub:** [@AkbarDev](https://github.com/AkbarDev)  
-**LinkedIn:** [Connect with me](https://linkedin.com/in/akbarbasha)
+**LinkedIn:** [Connect with me](https://linkedin.com/in/akbar-basha-b7166927)
 
 ---
 
