@@ -71,9 +71,3 @@ Open `WebScraping_Cleaning_Loading_MySQL_ETL.ipynb` in Jupyter Notebook.
 - **Database Integration**: Using SQLAlchemy to write DataFrames directly to SQL tables.
 - **Automation**: Creating a repeatable script for data ingestion.
 
----
-
-## Contact
-
-**Author:** Akbar Basha
-**GitHub:** [@AkbarDev](https://github.com/AkbarDev)
