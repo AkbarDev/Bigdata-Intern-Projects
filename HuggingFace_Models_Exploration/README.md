@@ -373,14 +373,6 @@ query = "artificial intelligence healthcare"
 
 ---
 
-## Contact & Collaboration
-
-**Author:** Akbar Basha  
-**Role:** Data Science Intern  
-**GitHub:** [@AkbarDev](https://github.com/AkbarDev)  
-**LinkedIn:** [Connect with me](https://linkedin.com/in/akbarbasha)
-
----
 
 ## License
 
@@ -407,7 +399,6 @@ This project is part of an internship portfolio and is available for educational
 
 ---
 
-**⭐ If you found this NLP pipeline useful, please consider giving it a star!**
 
 ---
 

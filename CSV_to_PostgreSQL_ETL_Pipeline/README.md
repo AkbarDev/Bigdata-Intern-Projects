@@ -262,14 +262,6 @@ Total records in database: 1000
 
 ---
 
-## Contact & Collaboration
-
-**Author:** Akbar Basha  
-**Role:** Data Engineering Intern  
-**GitHub:** [@AkbarDev](https://github.com/AkbarDev)  
-**LinkedIn:** [Connect with me](https://linkedin.com/in/akbar-basha-b7166927)
-
----
 
 ## License
 
@@ -285,4 +277,3 @@ This project is part of an internship portfolio and is available for educational
 
 ---
 
-**⭐ If you found this project helpful, please consider giving it a star!**

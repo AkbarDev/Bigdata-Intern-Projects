@@ -113,13 +113,6 @@ graph LR
 
 ---
 
-## Contact & Collaboration
-
-**Author:** Akbar Basha  
-**GitHub:** [@AkbarDev](https://github.com/AkbarDev)  
-**LinkedIn:** [Connect with me](https://linkedin.com/in/akbarbasha)  
-
----
 
 ## License
 

@@ -363,14 +363,6 @@ Income vs Spending Score Correlation: 0.0098
 
 ---
 
-## Contact & Collaboration
-
-**Author:** Akbar Basha  
-**Role:** Data Analytics Intern  
-**GitHub:** [@AkbarDev](https://github.com/AkbarDev)  
-**LinkedIn:** [Connect with me](https://linkedin.com/in/akbarbasha)
-
----
 
 ## License
 
@@ -386,7 +378,6 @@ This project is part of an internship portfolio and is available for educational
 
 ---
 
-**⭐ If you found this analysis insightful, please consider giving it a star!**
 
 ---
 
